@@ -1,7 +1,6 @@
 package com.springrefresh.refresh.data;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.time.LocalDate;

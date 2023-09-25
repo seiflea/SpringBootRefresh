@@ -6,7 +6,6 @@ import com.springrefresh.refresh.data.UserResource;
 import com.springrefresh.refresh.database.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.StreamSupport;
 
